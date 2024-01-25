@@ -12,6 +12,8 @@ To run this project locally, follow these steps:
 4.follow the instructions on the terminal (scan qr code with expo app / press a for android simulator etc)
 
 ### Usage
-to access the app use thie user:
+to access the app use this user:
+
 username: yarim shalev
+
 password: any password
